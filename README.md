@@ -1,4 +1,4 @@
 # demoRep
 This is my first demo repository.
 <br>
-Author- Subham Ghosh
+Author- Subham Ghosh (SG)
